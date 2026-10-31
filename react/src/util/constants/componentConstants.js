@@ -462,7 +462,7 @@ export const ID_ACTIVE = 'active'
 export const ID_REVOKED = 'revoked'
 
 // Gift cards
-export const GIFT_CARD_REFRESH_INTERVAL_MS = 30000
+//export const GIFT_CARD_REFRESH_INTERVAL_MS = 30000
 export const GIFT_CARD_FUNDING_FUNDS = 'funds'
 export const GIFT_CARD_FUNDING_IDENTITY = 'identity'
 export const GIFT_CARD_FUNDING_BOTH = 'both'
